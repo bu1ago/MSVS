@@ -1,0 +1,37 @@
+C:\Users\spiva_000\Desktop\ВСЕ ДЛЯ УЧЕБЫ\ЯП\Лаб7\Лаб7\bin\Debug\Лаб7.exe
+C:\Users\spiva_000\Desktop\ВСЕ ДЛЯ УЧЕБЫ\ЯП\Лаб7\Лаб7\bin\Debug\Лаб7.pdb
+C:\Users\spiva_000\Desktop\ВСЕ ДЛЯ УЧЕБЫ\ЯП\Лаб7\Лаб7\obj\x86\Debug\Лаб7.Form1.resources
+C:\Users\spiva_000\Desktop\ВСЕ ДЛЯ УЧЕБЫ\ЯП\Лаб7\Лаб7\obj\x86\Debug\Лаб7.Properties.Resources.resources
+C:\Users\spiva_000\Desktop\ВСЕ ДЛЯ УЧЕБЫ\ЯП\Лаб7\Лаб7\obj\x86\Debug\Лаб7.csproj.GenerateResource.Cache
+C:\Users\spiva_000\Desktop\ВСЕ ДЛЯ УЧЕБЫ\ЯП\Лаб7\Лаб7\obj\x86\Debug\Лаб7.exe
+C:\Users\spiva_000\Desktop\ВСЕ ДЛЯ УЧЕБЫ\ЯП\Лаб7\Лаб7\obj\x86\Debug\Лаб7.pdb
+C:\Users\spiva_000\Desktop\ВСЕ ДЛЯ УЧЕБЫ\ЯП\Лаб7\Лаб7\obj\x86\Debug\Лаб7.csprojResolveAssemblyReference.cache
+C:\Users\spiva_000\Desktop\ВСЕ ДЛЯ УЧЕБЫ\ЯП\Лаб7\Лаб7\bin\Debug\Tabs.accdb
+C:\Users\spiva_000\Desktop\ВСЕ ДЛЯ УЧЕБЫ\ЯП\Лаб7\Лаб7\bin\Debug\Лаб7.exe.config
+C:\Users\1\Desktop\4 сем\ЯП\Лаб7\Лаб7\bin\Debug\Лаб7.exe.config
+C:\Users\1\Desktop\4 сем\ЯП\Лаб7\Лаб7\obj\x86\Debug\Лаб7.exe
+C:\Users\1\Desktop\4 сем\ЯП\Лаб7\Лаб7\obj\x86\Debug\Лаб7.pdb
+C:\Users\1\Desktop\4 сем\ЯП\Лаб7\Лаб7\bin\Debug\Tabs.accdb
+C:\Users\1\Desktop\4 сем\ЯП\Лаб7\Лаб7\bin\Debug\Лаб7.exe
+C:\Users\1\Desktop\4 сем\ЯП\Лаб7\Лаб7\bin\Debug\Лаб7.pdb
+C:\Users\1\Desktop\4 сем\ЯП\Лаб7\Лаб7\obj\x86\Debug\Лаб7.Form1.resources
+C:\Users\1\Desktop\4 сем\ЯП\Лаб7\Лаб7\obj\x86\Debug\Лаб7.Properties.Resources.resources
+C:\Users\1\Desktop\4 сем\ЯП\Лаб7\Лаб7\obj\x86\Debug\Лаб7.csproj.GenerateResource.Cache
+C:\Users\misgood\Desktop\лаба 78\Лаб7\bin\Debug\Лаб7.exe.config
+C:\Users\misgood\Desktop\лаба 78\Лаб7\obj\x86\Debug\Лаб7.exe
+C:\Users\misgood\Desktop\лаба 78\Лаб7\obj\x86\Debug\Лаб7.pdb
+C:\Users\misgood\Desktop\лаба 78\Лаб7\bin\Debug\Tabs.accdb
+C:\Users\misgood\Desktop\лаба 78\Лаб7\bin\Debug\Лаб7.exe
+C:\Users\misgood\Desktop\лаба 78\Лаб7\bin\Debug\Лаб7.pdb
+C:\Users\misgood\Desktop\лаба 78\Лаб7\obj\x86\Debug\Лаб7.Form1.resources
+C:\Users\misgood\Desktop\лаба 78\Лаб7\obj\x86\Debug\Лаб7.Properties.Resources.resources
+C:\Users\misgood\Desktop\лаба 78\Лаб7\obj\x86\Debug\Лаб7.csproj.GenerateResource.Cache
+C:\ЖД Е\МТУСИ\2 курс\4 семестр\яп\лаба 78\Лаб7\bin\Debug\Лаб7.exe.config
+C:\ЖД Е\МТУСИ\2 курс\4 семестр\яп\лаба 78\Лаб7\obj\x86\Debug\Лаб7.exe
+C:\ЖД Е\МТУСИ\2 курс\4 семестр\яп\лаба 78\Лаб7\obj\x86\Debug\Лаб7.pdb
+C:\ЖД Е\МТУСИ\2 курс\4 семестр\яп\лаба 78\Лаб7\bin\Debug\Tabs.accdb
+C:\ЖД Е\МТУСИ\2 курс\4 семестр\яп\лаба 78\Лаб7\bin\Debug\Лаб7.exe
+C:\ЖД Е\МТУСИ\2 курс\4 семестр\яп\лаба 78\Лаб7\bin\Debug\Лаб7.pdb
+C:\ЖД Е\МТУСИ\2 курс\4 семестр\яп\лаба 78\Лаб7\obj\x86\Debug\Лаб7.Form1.resources
+C:\ЖД Е\МТУСИ\2 курс\4 семестр\яп\лаба 78\Лаб7\obj\x86\Debug\Лаб7.Properties.Resources.resources
+C:\ЖД Е\МТУСИ\2 курс\4 семестр\яп\лаба 78\Лаб7\obj\x86\Debug\Лаб7.csproj.GenerateResource.Cache

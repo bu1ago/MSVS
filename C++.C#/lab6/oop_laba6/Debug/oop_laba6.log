@@ -1,0 +1,33 @@
+﻿Построение начато 23.04.2018 23:34:44.
+     1>Проект "C:\ЖД Е\МТУСИ\яп\lab6\oop_laba6\oop_laba6.vcxproj" в узле 2 (целевые объекты build).
+     1>InitializeBuildStatus:
+         Создание "Debug\lab6.unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"StdAfx.h" /Fp"Debug\lab6.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\lab6.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt lab6.cpp
+         lab6.cpp
+     1>c:\жд е\мтуси\яп\lab6\oop_laba6\lab6.cpp(137): warning C4101: ps: неиспользованная локальная переменная
+       ResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /D _UNICODE /D UNICODE /l"0x0409" /nologo /fo"Debug\oop_laba6.res" oop_laba6.rc 
+       ManifestResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\lab6.exe.embed.manifest.res" Debug\lab6_manifest.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\ЖД Е\МТУСИ\яп\lab6\Debug\lab6.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\lab6.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\ЖД Е\МТУСИ\яп\lab6\Debug\lab6.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\ЖД Е\МТУСИ\яп\lab6\Debug\lab6.lib" /MACHINE:X86 Debug\oop_laba6.res
+         Debug\lab6.exe.embed.manifest.res
+         Debug\lab6.obj
+         Debug\stdafx.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\lab6.exe.embed.manifest" /manifest Debug\lab6.exe.intermediate.manifest
+         Для всех выходных данных обновления не требуется.
+       LinkEmbedManifest:
+         Для всех выходных данных обновления не требуется.
+         oop_laba6.vcxproj -> C:\ЖД Е\МТУСИ\яп\lab6\Debug\lab6.exe
+       FinalizeBuildStatus:
+         Файл "Debug\lab6.unsuccessfulbuild" удаляется.
+         Обращение к "Debug\lab6.lastbuildstate".
+     1>Построение проекта "C:\ЖД Е\МТУСИ\яп\lab6\oop_laba6\oop_laba6.vcxproj" завершено (целевые объекты build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:03.37

@@ -1,0 +1,47 @@
+D:\Информатика 4 семестр\Лабораторная работа №7\Пащенко Алексей\Lab_Rab_7-9\Lab_Rab_7\bin\Debug\Lab_Rab_7.exe.config
+D:\Информатика 4 семестр\Лабораторная работа №7\Пащенко Алексей\Lab_Rab_7-9\Lab_Rab_7\obj\Debug\Lab_Rab_7.exe
+D:\Информатика 4 семестр\Лабораторная работа №7\Пащенко Алексей\Lab_Rab_7-9\Lab_Rab_7\obj\Debug\Lab_Rab_7.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\Лабораторная работа №7-9\Пащенко Алексей\Lab_Rab_7-9\Lab_Rab_7\bin\Debug\Lab_Rab_7.exe.config
+C:\Users\user\Documents\Visual Studio 2015\Projects\Лабораторная работа №7-9\Пащенко Алексей\Lab_Rab_7-9\Lab_Rab_7\obj\Debug\Lab_Rab_7.exe
+C:\Users\user\Documents\Visual Studio 2015\Projects\Лабораторная работа №7-9\Пащенко Алексей\Lab_Rab_7-9\Lab_Rab_7\obj\Debug\Lab_Rab_7.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\Лабораторная работа №7-9\Пащенко Алексей\Lab_Rab_7-9\Lab_Rab_7\bin\Debug\Lab_Rab_7.exe
+C:\Users\user\Documents\Visual Studio 2015\Projects\Лабораторная работа №7-9\Пащенко Алексей\Lab_Rab_7-9\Lab_Rab_7\bin\Debug\Lab_Rab_7.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\Лабораторная работа №7-9\Пащенко Алексей\Lab_Rab_7-9\Lab_Rab_7\obj\Debug\Lab_Rab_7-9.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2015\Projects\Лабораторная работа №7-9\Пащенко Алексей\Lab_Rab_7-9\Lab_Rab_7\obj\Debug\Lab_Rab_7.Form1.resources
+C:\Users\user\Documents\Visual Studio 2015\Projects\Лабораторная работа №7-9\Пащенко Алексей\Lab_Rab_7-9\Lab_Rab_7\obj\Debug\Lab_Rab_7.Form7.resources
+C:\Users\user\Documents\Visual Studio 2015\Projects\Лабораторная работа №7-9\Пащенко Алексей\Lab_Rab_7-9\Lab_Rab_7\obj\Debug\Lab_Rab_7.Form8.resources
+C:\Users\user\Documents\Visual Studio 2015\Projects\Лабораторная работа №7-9\Пащенко Алексей\Lab_Rab_7-9\Lab_Rab_7\obj\Debug\Lab_Rab_7.Form9.resources
+C:\Users\user\Documents\Visual Studio 2015\Projects\Лабораторная работа №7-9\Пащенко Алексей\Lab_Rab_7-9\Lab_Rab_7\obj\Debug\Lab_Rab_7.Properties.Resources.resources
+C:\Users\user\Documents\Visual Studio 2015\Projects\Лабораторная работа №7-9\Пащенко Алексей\Lab_Rab_7-9\Lab_Rab_7\obj\Debug\Lab_Rab_7-9.csproj.GenerateResource.Cache
+C:\Users\user\Documents\Visual Studio 2015\Projects\Лабораторная работа №7-9\Пащенко Алексей\Lab_Rab_7-9\Lab_Rab_7\bin\Debug\Lab_Rab_9.accdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\Лабораторная работа №7-9\Пащенко Алексей\Lab_Rab_7-9\Lab_Rab_7\obj\Debug\Lab_Rab_7.Form9_1.resources
+C:\Users\user\Documents\Visual Studio 2015\Projects\Лабораторная работа №7-9\Пащенко Алексей\Lab_Rab_7-9\Lab_Rab_7\obj\Debug\Lab_Rab_7.Form9_2.resources
+C:\Users\user\Documents\Visual Studio 2015\Projects\Лабораторная работа №7-9\Пащенко Алексей\Lab_Rab_7-9\Lab_Rab_7\obj\Debug\Lab_Rab_7.Form9_3.resources
+C:\Users\misgood\Desktop\Лабораторная работа №7-9\Пащенко Алексей\Lab_Rab_7-9\Lab_Rab_7\bin\Debug\Lab_Rab_7.exe.config
+C:\Users\misgood\Desktop\Лабораторная работа №7-9\Пащенко Алексей\Lab_Rab_7-9\Lab_Rab_7\obj\Debug\Lab_Rab_7.pdb
+C:\Users\misgood\Desktop\Лабораторная работа №7-9\Пащенко Алексей\Lab_Rab_7-9\Lab_Rab_7\bin\Debug\Lab_Rab_9.accdb
+C:\Users\misgood\Desktop\Лабораторная работа №7-9\Пащенко Алексей\Lab_Rab_7-9\Lab_Rab_7\bin\Debug\Lab_Rab_7.exe
+C:\Users\misgood\Desktop\Лабораторная работа №7-9\Пащенко Алексей\Lab_Rab_7-9\Lab_Rab_7\bin\Debug\Lab_Rab_7.pdb
+C:\Users\misgood\Desktop\Лабораторная работа №7-9\Пащенко Алексей\Lab_Rab_7-9\Lab_Rab_7\obj\Debug\Lab_Rab_7-9.csprojResolveAssemblyReference.cache
+C:\Users\misgood\Desktop\Лабораторная работа №7-9\Пащенко Алексей\Lab_Rab_7-9\Lab_Rab_7\obj\Debug\Lab_Rab_7.Form1.resources
+C:\Users\misgood\Desktop\Лабораторная работа №7-9\Пащенко Алексей\Lab_Rab_7-9\Lab_Rab_7\obj\Debug\Lab_Rab_7.Form9_1.resources
+C:\Users\misgood\Desktop\Лабораторная работа №7-9\Пащенко Алексей\Lab_Rab_7-9\Lab_Rab_7\obj\Debug\Lab_Rab_7.Form9.resources
+C:\Users\misgood\Desktop\Лабораторная работа №7-9\Пащенко Алексей\Lab_Rab_7-9\Lab_Rab_7\obj\Debug\Lab_Rab_7.Form9_2.resources
+C:\Users\misgood\Desktop\Лабораторная работа №7-9\Пащенко Алексей\Lab_Rab_7-9\Lab_Rab_7\obj\Debug\Lab_Rab_7.Form9_3.resources
+C:\Users\misgood\Desktop\Лабораторная работа №7-9\Пащенко Алексей\Lab_Rab_7-9\Lab_Rab_7\obj\Debug\Lab_Rab_7.Properties.Resources.resources
+C:\Users\misgood\Desktop\Лабораторная работа №7-9\Пащенко Алексей\Lab_Rab_7-9\Lab_Rab_7\obj\Debug\Lab_Rab_7-9.csproj.GenerateResource.Cache
+C:\Users\misgood\Desktop\Лабораторная работа №7-9\Пащенко Алексей\Lab_Rab_7-9\Lab_Rab_7\obj\Debug\Lab_Rab_7.exe
+C:\Users\misgood\Desktop\Лабораторная работа №9\лаб9\Lab_Rab_7-9\Lab_Rab_7\bin\Debug\Lab_Rab_7.exe.config
+C:\Users\misgood\Desktop\Лабораторная работа №9\лаб9\Lab_Rab_7-9\Lab_Rab_7\obj\Debug\Lab_Rab_7.exe
+C:\Users\misgood\Desktop\Лабораторная работа №9\лаб9\Lab_Rab_7-9\Lab_Rab_7\obj\Debug\Lab_Rab_7.pdb
+C:\Users\misgood\Desktop\Лабораторная работа №9\лаб9\Lab_Rab_7-9\Lab_Rab_7\bin\Debug\Lab_Rab_9.accdb
+C:\Users\misgood\Desktop\Лабораторная работа №9\лаб9\Lab_Rab_7-9\Lab_Rab_7\bin\Debug\Lab_Rab_7.exe
+C:\Users\misgood\Desktop\Лабораторная работа №9\лаб9\Lab_Rab_7-9\Lab_Rab_7\bin\Debug\Lab_Rab_7.pdb
+C:\Users\misgood\Desktop\Лабораторная работа №9\лаб9\Lab_Rab_7-9\Lab_Rab_7\obj\Debug\Lab_Rab_7-9.csprojResolveAssemblyReference.cache
+C:\Users\misgood\Desktop\Лабораторная работа №9\лаб9\Lab_Rab_7-9\Lab_Rab_7\obj\Debug\Lab_Rab_7.Form1.resources
+C:\Users\misgood\Desktop\Лабораторная работа №9\лаб9\Lab_Rab_7-9\Lab_Rab_7\obj\Debug\Lab_Rab_7.Form9_1.resources
+C:\Users\misgood\Desktop\Лабораторная работа №9\лаб9\Lab_Rab_7-9\Lab_Rab_7\obj\Debug\Lab_Rab_7.Form9.resources
+C:\Users\misgood\Desktop\Лабораторная работа №9\лаб9\Lab_Rab_7-9\Lab_Rab_7\obj\Debug\Lab_Rab_7.Form9_2.resources
+C:\Users\misgood\Desktop\Лабораторная работа №9\лаб9\Lab_Rab_7-9\Lab_Rab_7\obj\Debug\Lab_Rab_7.Form9_3.resources
+C:\Users\misgood\Desktop\Лабораторная работа №9\лаб9\Lab_Rab_7-9\Lab_Rab_7\obj\Debug\Lab_Rab_7.Properties.Resources.resources
+C:\Users\misgood\Desktop\Лабораторная работа №9\лаб9\Lab_Rab_7-9\Lab_Rab_7\obj\Debug\Lab_Rab_7-9.csproj.GenerateResource.Cache

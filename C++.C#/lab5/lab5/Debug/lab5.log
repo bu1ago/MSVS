@@ -1,0 +1,7 @@
+﻿  lab5.cpp
+c:\users\quol\desktop\учеба\яп\lab5\lab5\lab5.cpp(130): warning C4101: 'hdc': unreferenced local variable
+c:\users\quol\desktop\учеба\яп\lab5\lab5\lab5.cpp(127): warning C4101: 'ps': unreferenced local variable
+c:\users\quol\desktop\учеба\яп\lab5\lab5\lab5.cpp(126): warning C4101: 'wmEvent': unreferenced local variable
+c:\users\quol\desktop\учеба\яп\lab5\lab5\lab5.cpp(126): warning C4101: 'wmId': unreferenced local variable
+  lab5.vcxproj -> C:\Users\quol\Desktop\Учеба\ЯП\lab5\Debug\lab5.exe
+  lab5.vcxproj -> C:\Users\quol\Desktop\Учеба\ЯП\lab5\Debug\lab5.pdb (Partial PDB)
